@@ -1,4 +1,3 @@
-# SMIT PUSINOV LIPI
-SMIT Development
+# FOR MEDIA SOLUTIONFOR
+FOR MEDIA SYSTEM
 
-Sistem Manajemen Inkubasi Teknologi
